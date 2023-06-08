@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ApplyDFS&BFS/1.0.0": {
+        "dependencies": {
+          "DFS": "1.0.0"
+        },
+        "runtime": {
+          "ApplyDFS&BFS.dll": {}
+        }
+      },
+      "DFS/1.0.0": {
+        "runtime": {
+          "DFS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplyDFS&BFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
